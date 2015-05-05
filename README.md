@@ -16,4 +16,4 @@ Instead of loading the module by path, we want to be able to load the module by 
 其他地方还比较顺利。
 本身对Javascript和Node.js不太熟悉，需要恶补语言基础。
 
-github仓库地址： https://github.com/Rand01ph/fork2-node-greet
+github仓库地址： https://github.com/Rand01ph/besike-nodejs-hello
